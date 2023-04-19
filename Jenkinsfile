@@ -19,4 +19,5 @@ pipeline {
                                 echo "Integration Test"
                         }
                 }
+	}
 }
